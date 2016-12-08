@@ -1,0 +1,28 @@
+/*upyun.php*/
+.ubuttona{border:2px solid #1591f0;color: #1591f0;font-size: 18px;display: block;width: 178px;float: left;margin:10px 0 10px 13px;cursor: pointer;padding:5px 0 5px 0;border-radius: 4px;text-align: center;line-height: 28px;}
+#ubglay{background-color:#000; position:absolute; z-index:99; left:0; top:0; display:none; width:100%; height:1000px;opacity:0.8;filter: alpha(opacity=80);-moz-opacity: 0.8;} 
+#uuploaddiv{display:none;border:0px solid #abcdef;position:fixed;width:400px; left:50%; top:150px; margin-left:-200px; height:auto; z-index:100;background-color:#fff;border:1px solid #1591f0;} 
+#uuploaddiv h2{font-size:15px; position:relative; padding:10px;margin:0px;background: #1591f0;color: #FFF;} 
+#uuploaddiv h2 a{position:absolute; right:15px; font-size:15px; color:#FFF;} 
+#uuploaddiv .form{padding:20px;} 
+.ushowadvset {margin:3px 10px 0px 0px;padding:0px 20px 0px 0px;cursor:pointer;width:76px;font-weight:bold;}
+#uschedulebg{width:373px; height:10px;margin-left: 13px;line-height: 15px;text-align:center; display: none;border: 1px solid #1591f0;border-radius: 4px;}
+#uschedule {width:0px; height:10px;background-color: #1591f0;border-radius: 4px;}
+#uform{position: relative;}
+#usubmit{display: none;}
+#ufile{border:0px;background: transparent;outline: none;}
+#ufile{display: none;}
+#utips{margin: 18px 0 25px 13px;font-size: 15px;width: 360px;word-wrap:break-word; word-break:normal;height: 30px;}
+
+/*upyun_getlist*/
+#udellay{display:none;width:150px;height:70px;border:1px solid #abcdef;background-color: #FFF;position: absolute;left:50%;margin-left:-65px;top:100px;z-index:5;border-radius: 4px;}
+#tips{display:block;width:146px;padding:2px;background-color: #1591f0;height: 30px;color: #FFF;margin-bottom: 3px;line-height:30px;text-align: center;border-top-left-radius:4px;
+border-top-right-radius:4px;}
+#ulistmain{width:780px;height: 300px;position: absolute;}
+#uimgdiv{width:180px;border:1px solid #abcdef;height: 100px;float: left;margin:5px; position: relative;}
+#udelico{color:#000; text-align: center;display: none;position: absolute;left: 150px;top:0px;z-index: 4;font-size: 30px;text-decoration: none;}
+#udelico:hover{color:red;}
+#unavgb{display:none;width:180px;height:30px;background: #000;opacity: 0.5;position: absolute;left: 0px;top:0px;z-index: 3;filter:alpha(opacity=50);}
+#udelsubmit,#gquxiao{display: none;}
+.uabutton{display: block;width: 50px;height: 20px;float: left;text-align: center;margin-left: 12px;cursor: pointer;}
+.uabutton img{margin:5px 0 0 10px;width: 20px;height: 20px;}
